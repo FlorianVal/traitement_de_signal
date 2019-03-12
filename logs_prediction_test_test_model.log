@@ -1,0 +1,8 @@
+2019-01-30 02:03:39 PM - INFO - Reading V_2017-04-01+08_04_36=0_13.mp3
+2019-01-30 02:03:40 PM - INFO - Time taken for reading file: 0.8009414590014785
+2019-01-30 02:03:40 PM - INFO - Starting feature engineering
+2019-01-30 02:03:42 PM - INFO - Time taken for feature engineering: 1.6906387779999932
+2019-01-30 02:03:42 PM - INFO - Predicting...
+2019-01-30 02:03:42 PM - INFO - Time taken for prediction: 0.009324419999757083. Is it a baby cry?? 1
+2019-01-30 02:03:42 PM - INFO - Saving prediction...
+2019-01-30 02:03:42 PM - INFO - Saved! /Users/florianvalade/workspace/output/prediction/prediction.txt
